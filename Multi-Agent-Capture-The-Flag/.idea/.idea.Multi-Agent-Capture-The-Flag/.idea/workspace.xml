@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5169f56e-510d-474a-96c3-347df82157d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/APIUpdater/project-dependencies.graph" beforeDir="false" afterPath="$PROJECT_DIR$/Library/APIUpdater/project-dependencies.graph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Barracuda-editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Barracuda-editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Barracuda.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Barracuda.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BurstBLAS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/BurstBLAS.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/MacBLAS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/MacBLAS.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Burst.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Burst.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Burst.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Burst.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Mathematics.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Mathematics.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/iOSBLAS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/iOSBLAS.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6457dd-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6457dd-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/d22dd7-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/d22dd7-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/22/223066cbbd7b63648a45a437e38dc053" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/22/223066cbbd7b63648a45a437e38dc053" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9f/9fc0d4010bbf28b4594072e72b8655ab" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9f/9fc0d4010bbf28b4594072e72b8655ab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9f/9fc0d4010bbf28b4594072e72b8655ab.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9f/9fc0d4010bbf28b4594072e72b8655ab.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/_Project/Scripts/AttackingAgent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <marker date="1579351527556" expanded="true" signature="6:34" ph="..." />
+                <marker date="1579351527556" expanded="true" signature="72:1537" ph="{...}" />
+                <marker date="1579351527556" expanded="true" signature="250:308" ph="{...}" />
+                <marker date="1579351527556" expanded="true" signature="336:369" ph="{...}" />
+                <marker date="1579351527556" expanded="true" signature="475:643" ph="{...}" />
+                <marker date="1579351527556" expanded="true" signature="717:878" ph="{...}" />
+                <marker date="1579351527556" expanded="true" signature="922:1371" ph="{...}" />
+                <marker date="1579351527556" expanded="true" signature="1424:1457" ph="{...}" />
+                <marker date="1579351527556" expanded="true" signature="1518:1534" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ML-Agents/Examples/3DBall/Scripts/Ball3DAcademy.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <marker date="1579297373138" expanded="false" signature="6:34" ph="..." />
+                <marker date="1579297373138" expanded="true" signature="72:238" ph="{...}" />
+                <marker date="1579297373138" expanded="true" signature="119:235" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Project/Scripts/CTFAcademy.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <folding>
+                <marker date="1579349725104" expanded="true" signature="51:59" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Project/Scripts/EyeCone.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="71" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="71" />
+              <folding>
+                <marker date="1579348937917" expanded="true" signature="6:66" ph="..." />
+                <marker date="1579348937917" expanded="true" signature="89:2468" ph="{...}" />
+                <marker date="1579348937917" expanded="true" signature="315:524" ph="{...}" />
+                <marker date="1579348937917" expanded="true" signature="531:663" ph="/// Casts ray casts forward to check what an eye can see in a cone  ... " />
+                <marker date="1579348937917" expanded="true" signature="713:1920" ph="{...}" />
+                <marker date="1579348937917" expanded="true" signature="854:1877" ph="{...}" />
+                <marker date="1579348937917" expanded="true" signature="1042:1866" ph="{...}" />
+                <marker date="1579348937917" expanded="true" signature="1400:1664" ph="{...}" />
+                <marker date="1579348937917" expanded="true" signature="1479:1646" ph="{...}" />
+                <marker date="1579348937917" expanded="true" signature="1990:2207" ph="{...}" />
+                <marker date="1579348937917" expanded="true" signature="2110:2201" ph="{...}" />
+                <marker date="1579348937917" expanded="true" signature="2250:2355" ph="{...}" />
+                <marker date="1579348937917" expanded="true" signature="2403:2465" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Project/Scripts/ObjectType.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
+              <folding>
+                <marker date="1579349104905" expanded="true" signature="23:99" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/ObjectType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/AttackingAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ML-Agents/Scripts/Agent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/EyeCone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ML-Agents/Examples/3DBall/Scripts/Ball3DAcademy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/CTFAcademy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ML-Agents/Scripts/InferenceBrain/ApplierImpl.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Type.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/EyeCone.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/ObjectType.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/CTFAcademy.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/AttackingAgent.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Multi-Agent-Capture-The-Flag/.idea/indexLayout.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Multi-Agent-Capture-The-Flag/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1045" />
+    <option name="y" value="-15" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="_Project" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="_Project" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5169f56e-510d-474a-96c3-347df82157d3" name="Default Changelist" comment="" />
+      <created>1579346726579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579346726579</updated>
+      <workItem from="1579346734357" duration="4414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4414000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="3086" height="1702" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24975222" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/ML-Agents/Scripts/InferenceBrain/ApplierImpl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <marker date="1579297374012" expanded="false" signature="6:139" ph="..." />
+            <marker date="1579297374012" expanded="true" signature="174:9791" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="181:366" ph="/// The Applier for the Continuous Action output tensor. Tensor is assumed to contain the ... " />
+            <marker date="1579297374012" expanded="true" signature="438:1014" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="522:1008" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="684:998" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="803:904" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="1020:1204" ph="/// The Applier for the Discrete Action output tensor. Uses multinomial to sample discrete ... " />
+            <marker date="1579297374012" expanded="true" signature="1274:6689" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="1508:1655" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="1734:4098" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="2163:3686" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="2309:2555" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="2636:3059" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="2812:3041" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="3130:3352" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="3474:3583" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="3765:4088" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="3902:3994" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="4108:4935" ph="/// Draw samples from a multinomial distribution based on log-probabilities specified ... " />
+            <marker date="1579297374012" expanded="true" signature="5026:6683" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="5083:5208" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="5257:5407" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="5462:5541" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="5592:5719" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="5838:6673" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="6014:6122" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="6286:6436" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="6552:6659" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="6695:6862" ph="/// The Applier for the Memory output tensor. Tensor is assumed to contain the new ... " />
+            <marker date="1579297374012" expanded="true" signature="6924:7814" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="7067:7122" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="7200:7808" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="7367:7798" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="7545:7701" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="7886:9228" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="8173:8314" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="8393:9222" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="8561:9212" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="8757:8931" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="8985:9115" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="9235:9410" ph="/// The Applier for the Value Estimate output tensor. Tensor is assumed to contain the ... " />
+            <marker date="1579297374012" expanded="true" signature="9473:9789" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="9557:9783" ph="{...}" />
+            <marker date="1579297374012" expanded="true" signature="9641:9773" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Type.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Project/Scripts/EyeCone.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="71" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="71" />
+          <folding>
+            <marker date="1579348937917" expanded="true" signature="6:66" ph="..." />
+            <marker date="1579348937917" expanded="true" signature="89:2468" ph="{...}" />
+            <marker date="1579348937917" expanded="true" signature="315:524" ph="{...}" />
+            <marker date="1579348937917" expanded="true" signature="531:663" ph="/// Casts ray casts forward to check what an eye can see in a cone  ... " />
+            <marker date="1579348937917" expanded="true" signature="713:1920" ph="{...}" />
+            <marker date="1579348937917" expanded="true" signature="854:1877" ph="{...}" />
+            <marker date="1579348937917" expanded="true" signature="1042:1866" ph="{...}" />
+            <marker date="1579348937917" expanded="true" signature="1400:1664" ph="{...}" />
+            <marker date="1579348937917" expanded="true" signature="1479:1646" ph="{...}" />
+            <marker date="1579348937917" expanded="true" signature="1990:2207" ph="{...}" />
+            <marker date="1579348937917" expanded="true" signature="2110:2201" ph="{...}" />
+            <marker date="1579348937917" expanded="true" signature="2250:2355" ph="{...}" />
+            <marker date="1579348937917" expanded="true" signature="2403:2465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Project/Scripts/ObjectType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+          <folding>
+            <marker date="1579349104905" expanded="true" signature="23:99" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ML-Agents/Scripts/Agent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="253" column="47" lean-forward="true" selection-start-line="253" selection-start-column="47" selection-end-line="253" selection-end-column="47" />
+          <folding>
+            <marker date="1579297373983" expanded="false" signature="6:139" ph="..." />
+            <marker date="1579297373983" expanded="true" signature="159:38336" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="166:352" ph="/// Struct that contains all the information for an Agent, including its ... " />
+            <marker date="1579297373983" expanded="true" signature="380:1498" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="395:469" ph="/// Most recent observations. ... " />
+            <marker date="1579297373983" expanded="true" signature="526:632" ph="/// Keeps track of the last vector action taken by the Brain. ... " />
+            <marker date="1579297373983" expanded="true" signature="686:851" ph="/// For discrete control, specifies the actions that the agent cannot take. Is true if ... " />
+            <marker date="1579297373983" expanded="true" signature="896:966" ph="/// Current agent reward. ... " />
+            <marker date="1579297373983" expanded="true" signature="1005:1087" ph="/// Whether the agent is done or not. ... " />
+            <marker date="1579297373983" expanded="true" signature="1123:1238" ph="/// Whether the agent has reached its max step count for this episode. ... " />
+            <marker date="1579297373983" expanded="true" signature="1284:1469" ph="/// Unique identifier each agent receives at initialization. It is used ... " />
+            <marker date="1579297373983" expanded="true" signature="1504:1630" ph="/// Struct that contains the action information sent from the Brain to the ... " />
+            <marker date="1579297373983" expanded="true" signature="1660:1738" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="1744:1966" ph="/// Struct that contains all the Agent-specific parameters provided in the ... " />
+            <marker date="1579297373983" expanded="true" signature="2018:3342" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="2033:2531" ph="/// The maximum number of steps the agent takes before being done. ... " />
+            <marker date="1579297373983" expanded="true" signature="2569:2911" ph="/// Determines the behaviour of the agent when done. ... " />
+            <marker date="1579297373983" expanded="true" signature="2961:3093" ph="/// Whether to enable On Demand Decisions or make a decision at ... " />
+            <marker date="1579297373983" expanded="true" signature="3141:3284" ph="/// Number of actions between decisions (used when On Demand Decisions ... " />
+            <marker date="1579297373983" expanded="true" signature="3349:6198" ph="/// Agent Monobehavior class that is attached to a Unity GameObject, making it ... " />
+            <marker date="1579297373983" expanded="true" signature="6203:6331" ph="[...]" />
+            <marker date="1579297373983" expanded="true" signature="6449:38334" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="6534:6644" ph="/// Agent parameters specified within the Editor via AgentEditor. ... " />
+            <marker date="1579297373983" expanded="true" signature="6830:6921" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="7022:7472" ph="/// Represents the reward the agent accumulated during the current step. ... " />
+            <marker date="1579297373983" expanded="true" signature="7786:7984" ph="/// Whether or not the agent has completed the episode. This may be due ... " />
+            <marker date="1579297373983" expanded="true" signature="8121:8389" ph="/// Keeps track of the number of steps taken by the agent in this episode. ... " />
+            <marker date="1579297373983" expanded="true" signature="8424:8575" ph="/// Flag to signify that an agent has been reset but the fact that it is ... " />
+            <marker date="1579297373983" expanded="true" signature="8617:8745" ph="/// Flag to signify that an agent is done and should not reset until ... " />
+            <marker date="1579297373983" expanded="true" signature="8781:8921" ph="/// Unique identifier each agent receives at initialization. It is used ... " />
+            <marker date="1579297373983" expanded="true" signature="9056:9128" ph="/// Demonstration recorder. ... " />
+            <marker date="1579297373983" expanded="true" signature="9180:9365" ph="/// List of sensors used to generate observations. ... " />
+            <marker date="1579297373983" expanded="true" signature="9457:9554" ph="/// VectorSensor which is written to by AddVectorObs ... " />
+            <marker date="1579297373983" expanded="true" signature="9619:9723" ph="/// Internal buffer used for generating float observations. ... " />
+            <marker date="1579297373983" expanded="true" signature="9830:9939" ph="/// MonoBehaviour function that is called when the attached GameObject ... " />
+            <marker date="1579297373983" expanded="true" signature="9963:10229" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="10239:10337" ph="/// Helper method for the &lt;see cref=&quot;OnEnable&quot;/&gt; event, created to ... " />
+            <marker date="1579297373983" expanded="true" signature="10382:11225" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="10549:10699" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="11235:11346" ph="/// Monobehavior function that is called when the attached GameObject ... " />
+            <marker date="1579297373983" expanded="true" signature="11371:11858" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="11469:11816" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="11868:12505" ph="/// Updates the Model for the agent. Any model currently assigned to the ... " />
+            <marker date="1579297373983" expanded="true" signature="12663:12857" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="12867:13058" ph="/// Returns the current step counter (within the current epside). ... " />
+            <marker date="1579297373983" expanded="true" signature="13092:13144" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="13154:13272" ph="/// Resets the step reward and possibly the episode reward for the agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="13306:13446" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="13367:13436" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="13456:13677" ph="/// Overrides the current step reward of the agent and updates the episode ... " />
+            <marker date="1579297373983" expanded="true" signature="13721:13827" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="13837:14018" ph="/// Increments the step and episode rewards by the provided value. ... " />
+            <marker date="1579297373983" expanded="true" signature="14065:14165" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="14175:14312" ph="/// Retrieves the step reward for the Agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="14345:14394" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="14404:14547" ph="/// Retrieves the episode reward for the Agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="14590:14649" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="14659:14735" ph="/// Sets the done flag to true. ... " />
+            <marker date="1579297373983" expanded="true" signature="14762:14809" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="14819:14935" ph="/// Is called when the agent must request the brain for a new decision. ... " />
+            <marker date="1579297373983" expanded="true" signature="14973:15060" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="15070:15170" ph="/// Is called then the agent must perform a new action. ... " />
+            <marker date="1579297373983" expanded="true" signature="15206:15262" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="15272:15511" ph="/// Indicates if the agent has reached his maximum number of steps. ... " />
+            <marker date="1579297373983" expanded="true" signature="15550:15607" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="15617:15812" ph="/// Indicates if the agent is done ... " />
+            <marker date="1579297373983" expanded="true" signature="15841:15888" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="15898:16090" ph="/// Helper function that resets all the data structures associated with ... " />
+            <marker date="1579297373983" expanded="true" signature="16115:17178" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="16249:16518" ph="/* If we haven't initialized vectorActions, initialize to 0. This should only ... */" />
+            <marker date="1579297373983" expanded="true" signature="16566:17108" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="16653:16859" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="16880:17094" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="17188:17603" ph="/// Initializes the agent, called once when the agent is enabled. Can be ... " />
+            <marker date="1579297373983" expanded="true" signature="17649:17669" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="17680:18016" ph="/// When the Agent uses Heuristics, it will call this method every time it ... " />
+            <marker date="1579297373983" expanded="true" signature="18059:18302" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="18312:18483" ph="/// Set up the list of ISensors on the Agent. By default, this will select any ... " />
+            <marker date="1579297373983" expanded="true" signature="18523:20669" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="18687:18802" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="18819:18924" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="19054:19137" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="19294:19799" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="19459:19668" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="19689:19785" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="20056:20202" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="20369:20590" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="20466:20576" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="20679:20769" ph="/// Sends the Agent info to the linked Brain. ... " />
+            <marker date="1579297373983" expanded="true" signature="20800:22058" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="20843:20895" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="21154:21208" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="21637:22047" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="21668:21850" ph="/* This is a bit of a hack - if we're in inference mode, observations won't be generated ... */" />
+            <marker date="1579297373983" expanded="true" signature="21902:21980" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="22088:22225" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="22150:22215" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="22235:22648" ph="/// Generate data for each sensor and store it on the Agent's AgentInfo. ... " />
+            <marker date="1579297373983" expanded="true" signature="22689:24153" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="22831:24143" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="22965:23698" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="23004:23086" ph="/* only handles 1D ... */" />
+            <marker date="1579297373983" expanded="true" signature="23307:23576" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="23719:24129" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="23814:24050" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="24163:25900" ph="/// Collects the (vector, visual) observations of the agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="25950:25970" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="25980:26460" ph="/// Sets an action mask for discrete control agents. When used, the agent will not be ... " />
+            <marker date="1579297373983" expanded="true" signature="26529:26609" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="26619:27094" ph="/// Sets an action mask for discrete control agents. When used, the agent will not be ... " />
+            <marker date="1579297373983" expanded="true" signature="27148:27236" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="27246:27798" ph="/// Sets an action mask for discrete control agents. When used, the agent will not be ... " />
+            <marker date="1579297373983" expanded="true" signature="27864:27957" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="27967:28528" ph="/// Modifies an action mask for discrete control agents. When used, the agent will not be ... " />
+            <marker date="1579297373983" expanded="true" signature="28609:28694" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="28704:28947" ph="/// Adds a float observation to the vector observations of the agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="29002:29089" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="29099:29345" ph="/// Adds an integer observation to the vector observations of the agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="29398:29485" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="29495:29741" ph="/// Adds an Vector3 observation to the vector observations of the agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="29798:29885" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="29895:30141" ph="/// Adds an Vector2 observation to the vector observations of the agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="30198:30285" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="30295:30574" ph="/// Adds a collection of float observations to the vector observations of the agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="30642:30729" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="30739:30987" ph="/// Adds a quaternion observation to the vector observations of the agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="31047:31134" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="31144:31377" ph="/// Adds a boolean observation to the vector observation of the agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="31431:31518" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="31583:31683" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="31693:31998" ph="/// Specifies the agent behavior at every step based on the provided ... " />
+            <marker date="1579297373983" expanded="true" signature="32060:32080" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="32090:32317" ph="/// Specifies the agent behavior when done and ... " />
+            <marker date="1579297373983" expanded="true" signature="32359:32379" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="32389:32606" ph="/// Specifies the agent behavior when being reset, which can be due to ... " />
+            <marker date="1579297373983" expanded="true" signature="32647:32667" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="32677:32978" ph="/// This method will forcefully reset the agent and will also reset the hasAlreadyReset flag. ... " />
+            <marker date="1579297373983" expanded="true" signature="33004:33090" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="33100:33272" ph="/// An internal reset method that updates internal data structures in ... " />
+            <marker date="1579297373983" expanded="true" signature="33299:33399" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="33458:33509" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="33519:33658" ph="/// Updates the vector action. ... " />
+            <marker date="1579297373983" expanded="true" signature="33720:33792" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="33802:33882" ph="/// Updates the value of the agent. ... " />
+            <marker date="1579297373983" expanded="true" signature="33933:33989" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="34033:34088" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="34098:34359" ph="/// Scales continuous action from [-1, 1] to arbitrary range. ... " />
+            <marker date="1579297373983" expanded="true" signature="34434:34584" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="34594:34844" ph="/// Sets the status of the agent. Will request decisions or actions according ... " />
+            <marker date="1579297373983" expanded="true" signature="34891:34957" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="35067:36184" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="35090:35183" ph="/* If an agent is done, then it will also ... */" />
+            <marker date="1579297373983" expanded="true" signature="35209:36174" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="35272:36024" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="35348:35709" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="35418:35687" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="35473:35564" ph="/* If event based, the agent can reset as soon ... */" />
+            <marker date="1579297373983" expanded="true" signature="35757:36006" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="35804:35945" ph="/* If not event based, the agent must wait to request a ... */" />
+            <marker date="1579297373983" expanded="true" signature="36045:36160" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="36194:36305" ph="/// Signals the agent that it must sent its decision to the brain. ... " />
+            <marker date="1579297373983" expanded="true" signature="36329:36639" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="36374:36629" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="36729:37547" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="36768:37126" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="37183:37305" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="37413:37506" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="37557:37729" ph="/// Is called after every step, contains the logic to decide if the agent ... " />
+            <marker date="1579297373983" expanded="true" signature="37779:38242" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="37981:38232" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="38143:38218" ph="{...}" />
+            <marker date="1579297373983" expanded="true" signature="38271:38328" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Project/Scripts/CTFAcademy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding>
+            <marker date="1579349725104" expanded="true" signature="51:59" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ML-Agents/Examples/3DBall/Scripts/Ball3DAcademy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1579297373138" expanded="false" signature="6:34" ph="..." />
+            <marker date="1579297373138" expanded="true" signature="72:238" ph="{...}" />
+            <marker date="1579297373138" expanded="true" signature="119:235" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Project/Scripts/AttackingAgent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <marker date="1579351527556" expanded="true" signature="6:34" ph="..." />
+            <marker date="1579351527556" expanded="true" signature="72:1537" ph="{...}" />
+            <marker date="1579351527556" expanded="true" signature="250:308" ph="{...}" />
+            <marker date="1579351527556" expanded="true" signature="336:369" ph="{...}" />
+            <marker date="1579351527556" expanded="true" signature="475:643" ph="{...}" />
+            <marker date="1579351527556" expanded="true" signature="717:878" ph="{...}" />
+            <marker date="1579351527556" expanded="true" signature="922:1371" ph="{...}" />
+            <marker date="1579351527556" expanded="true" signature="1424:1457" ph="{...}" />
+            <marker date="1579351527556" expanded="true" signature="1518:1534" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
