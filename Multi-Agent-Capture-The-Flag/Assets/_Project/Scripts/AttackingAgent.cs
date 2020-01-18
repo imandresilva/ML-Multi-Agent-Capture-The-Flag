@@ -7,7 +7,7 @@ public class AttackingAgent : Agent {
     [SerializeField] private BoxCollider attackerBase;
     
     // Game parameters
-    private bool iHaveFlag = false;
+    private bool iHaveFlag;
 
     private void Start() {
         rb = gameObject.GetComponent<Rigidbody>();
@@ -40,7 +40,7 @@ public class AttackingAgent : Agent {
     
     public override void AgentReset() {
         // Sets his variables back to default
-        
+        iHaveFlag = false;
         
         // Resets him to his base
         rb.velocity = Vector3.zero;
@@ -58,7 +58,13 @@ public class AttackingAgent : Agent {
     }
 
     public override void AgentAction(float[] vectorAction) {
-        
+        float attenuation = 1f;
+        if (vectorAction[1] < 0)
+        {
+            attenuation = 0.8f;
+        }
+        transform.Translate(new Vector3(vectorAction[1] * Time.fixedDeltaTime * 10 * attenuation,0,0));
+        transform.Rotate(new Vector3(0,vectorAction[0], 0),4);
     }
 
 }
