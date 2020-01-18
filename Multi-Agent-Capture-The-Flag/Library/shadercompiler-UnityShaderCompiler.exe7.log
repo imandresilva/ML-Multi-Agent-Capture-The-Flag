@@ -1,0 +1,58 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=7960 outsize=1022 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=64076 outsize=7477 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=1879 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=2058 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=24335 outsize=10712 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7335 outsize=1426 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1574 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1330 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=3027 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1856 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1382 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1879 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1909 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1336 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1706 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4081 outsize=1776 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1810 outsize=3117 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=777 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=970 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=773 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=701 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=674 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=811 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1253 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1479 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1355 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1306 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1364 ok=1
