@@ -27,10 +27,10 @@ public class EyeCone {
 
         foreach (Vector3 dir in dirs) {
             Vector3 normalizedDir = agentTransform.TransformVector(dir).normalized;
-            if (Physics.Raycast(rayCastSource.position, normalizedDir, out RaycastHit hit, 10, mask)) {
+            if (Physics.Raycast(rayCastSource.position, normalizedDir, out RaycastHit hit, 20, mask)) {
                 GameObject gameObject = hit.transform.gameObject;
                 float distance = Vector3.Distance(agentTransform.position, hit.point);
-                Debug.DrawRay(rayCastSource.position, normalizedDir * 10,
+                Debug.DrawRay(rayCastSource.position, normalizedDir * 20,
                     distance > 1 ? Color.green : Color.yellow, 0, false);
                 if (gameObject.CompareTag("Attacker")) {
                     if (gameObject.GetComponent<AttackingAgent>().HasFlag()) {

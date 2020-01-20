@@ -12,7 +12,10 @@
             <e p="AttackingAgent.cs" t="Include" />
             <e p="CTFAcademy.cs" t="Include" />
             <e p="EyeCone.cs" t="Include" />
+            <e p="EyeRayCast.cs" t="Include" />
+            <e p="Flag.cs" t="Include" />
             <e p="ObjectType.cs" t="Include" />
+            <e p="SeenBits.cs" t="Include" />
           </e>
         </e>
         <e p="ML-Agents" t="Include">
