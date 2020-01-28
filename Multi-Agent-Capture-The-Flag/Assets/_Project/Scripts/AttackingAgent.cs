@@ -9,6 +9,7 @@ public class AttackingAgent : Agent {
     [Header("Unity Parameters")]
     [SerializeField] private BoxCollider attackerBase;
     [SerializeField] private Flag flag;
+    [SerializeField] private float speed = 10;
     private LayerMask attackingBaseMask;
     private Rigidbody rb;
     private EyeRayCast baseEyeRayCast;
@@ -48,31 +49,9 @@ public class AttackingAgent : Agent {
     /** Private methods **/
     
     private string CheckState() {
-        string typeSpecificBits = CheckTypeSpecificBits();
         string seenBits = CheckEyes();
         //Debug.Log(typeSpecificBits + seenBits);
-        return typeSpecificBits + seenBits;
-    }
-    
-    private string CheckTypeSpecificBits() {
-        char[] stateBits = new char[4];
-        for(int i = 0; i < stateBits.Length; i++) {
-            stateBits[i] = '0';
-        }
-
-        // Check for allied base in front
-        stateBits[0] = atAttackerBase || baseEyeRayCast.LookForLayerHit(transform, attackingBaseMask) ? '1' : '0'; // 1 if base in front
-        
-        // Check if my team has the flag
-        stateBits[1] = flag.IsFlagInBase() ? '0' : '1'; // 1 if my team has the flag
-        
-        // Check if I have the flag
-        stateBits[2] = iHaveFlag ? '1' : '0'; // 1 if I have the flag
-
-        // Check if I am at my base
-        stateBits[3] = atAttackerBase ? '1' : '0'; // 1 if I am at my base
-        
-        return new string(stateBits);
+        return seenBits;
     }
     
     private string CheckEyes() {
@@ -95,6 +74,16 @@ public class AttackingAgent : Agent {
             0,
             Random.Range(bounds.min.z, bounds.max.z)
         );
+    }
+    
+    public bool LostFlag() {
+        if (iHaveFlag) {
+            AddReward(-10);
+            Done();
+            return true;
+        }
+
+        return false;
     }
     
     
@@ -144,6 +133,10 @@ public class AttackingAgent : Agent {
     }
     
     public override void CollectObservations() {
+        AddVectorObs(atAttackerBase || baseEyeRayCast.LookForLayerHit(transform, attackingBaseMask));
+        AddVectorObs(!flag.IsFlagInBase());
+        AddVectorObs(iHaveFlag);
+        AddVectorObs(atAttackerBase);
         string state = CheckState();
         foreach (char c in state) {
             AddVectorObs(c == '1');
@@ -155,15 +148,14 @@ public class AttackingAgent : Agent {
         float attenuation = 1f;
         if (vectorAction[1] < 0)
         {
-            attenuation = 0.8f;
+            attenuation = 0.5f;
         }
 
-        Vector3 translateVector = new Vector3(vectorAction[1] * Time.fixedDeltaTime * 10 * attenuation, 0, 0);
+        Vector3 translateVector = new Vector3(vectorAction[1] * Time.fixedDeltaTime * speed * attenuation, 0, 0);
         //Debug.Log(translateVector);
         transform.Translate(translateVector);
         transform.Rotate(new Vector3(0,vectorAction[0], 0),4);
         AddReward(-100f / agentParameters.maxStep);
     }
-    
-    
+
 }

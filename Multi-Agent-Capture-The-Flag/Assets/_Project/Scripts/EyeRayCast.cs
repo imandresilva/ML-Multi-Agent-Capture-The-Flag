@@ -11,8 +11,8 @@ public class EyeRayCast {
     
     public bool LookForLayerHit(Transform transform, int layerMask) {
         Vector3 normalizedDir = transform.TransformVector(lookDir).normalized;
-        bool hit = Physics.Raycast(source.position, normalizedDir, 20, layerMask);
-        Debug.DrawRay(source.position, normalizedDir*22, hit ? Color.yellow : Color.red, 0, false);
+        bool hit = Physics.Raycast(source.position, normalizedDir, 40, layerMask);
+        Debug.DrawRay(source.position, normalizedDir*42, hit ? Color.yellow : Color.red, 0, false);
         return hit;
     }
 

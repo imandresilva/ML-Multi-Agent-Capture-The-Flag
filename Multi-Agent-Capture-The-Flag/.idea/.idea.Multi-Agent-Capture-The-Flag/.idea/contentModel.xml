@@ -11,6 +11,7 @@
           <e p="Scripts" t="Include">
             <e p="AttackingAgent.cs" t="Include" />
             <e p="CTFAcademy.cs" t="Include" />
+            <e p="DefendingAgent.cs" t="Include" />
             <e p="EyeCone.cs" t="Include" />
             <e p="EyeRayCast.cs" t="Include" />
             <e p="Flag.cs" t="Include" />

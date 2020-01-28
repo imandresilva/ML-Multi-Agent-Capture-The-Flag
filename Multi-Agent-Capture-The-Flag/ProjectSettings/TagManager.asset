@@ -33,6 +33,7 @@ TagManager:
   - Defender
   - Attacking_Base
   - Academy
+  - Defending_Base
   layers:
   - Default
   - TransparentFX
@@ -43,7 +44,7 @@ TagManager:
   - 
   - 
   - Attacking_Base
-  - 
+  - Defending_Base
   - 
   - 
   - 
