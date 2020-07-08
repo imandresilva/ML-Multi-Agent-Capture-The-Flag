@@ -3,6 +3,8 @@
 Multi-Agent Capture the Flag was a project developed for the Machine Learning curricular unit at Iscte - University Institute of Lisbon.
 Make sure to check out [Marco Rodrigues](https://github.com/marcomr22) as he was the co-author for this project.
 
+For a video of the end result, see this [link](https://youtu.be/gKv9OK5c2Qk).
+
 ## Project
 
 Using Machine Learning we developed a system where we can train agents to partake in a simple fetch quest, as well as train opponents to add a challenge to this mechanic.
